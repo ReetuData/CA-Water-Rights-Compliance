@@ -32,4 +32,4 @@ This project leverages **Python (ArcPy)** and **ArcGIS Pro** to automate the ide
 3. **Python Automation:** Scripting the filtering process to identify "At Risk" diversions based on seasonality.
 
 ---
-*Created by [Your Name] | Senior Chemist & Data Scientist*
+*Created by Reetu Sharma | Senior Chemist & Data Scientist*
